@@ -8,3 +8,5 @@ Realizé este ejercicio con nestjs ya que encontre un tutorial en platzi para de
 Utilize mongoose para los esquemas
 
 3. En src/services/products.service.ts Esta el crud de productos ... Aqui se crean, eliminan y actualizan
+
+Este texto lo estoy haciendo para hacer la prueba de la creacion de la rama
